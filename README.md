@@ -1,5 +1,5 @@
 # MockDOS - Salamanet
-This project is not only my essentric personal site, but also a look at JavaScript through the lense of the past.
+This project is not only my personal site, but also a look at JavaScript if it was developed 40 years ago.
 
 # Documentation
 MockDOS is not for the faint of heart. It is designed to be easy to use if you are already familiar with BATCH or powershell.
