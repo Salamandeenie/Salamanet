@@ -1,4 +1,7 @@
 <a href="https://salamandeenie.github.io/Salamanet/Project%20Terminally%20Online/index.html">LINK</a>
+# NOTICE
+This project has been put on haitus for the time being as I am busy with college stuff. Additionally, what is here is kinda awfully programmed
+
 # MockDOS - Salamanet
 This project is not only my personal site, but also a look at JavaScript if it was developed 40 years ago.
 
